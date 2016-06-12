@@ -3,6 +3,7 @@
 * Zombie.find(1)
 
 * t = Zombie.new(id:4, name:"Goktay", graveyard: "GopCity")
+
 t.save
 
 * Zombie.last
